@@ -1,5 +1,5 @@
-import React from 'react';
-import TableItem from './TableItem';
+import React from "react";
+import TableItem from "./TableItem";
 
 class Table extends React.Component {
     render() {

@@ -1,7 +1,7 @@
-import React from 'react';
-import SongInput from './components/SongInput';
-import SongData from './components/SongData';
-import TableList from './components/TableList';
+import React from "react";
+import SongInput from "./components/SongInput";
+import SongData from "./components/SongData";
+import TableList from "./components/TableList";
 
 class Container extends React.Component {
     constructor() {

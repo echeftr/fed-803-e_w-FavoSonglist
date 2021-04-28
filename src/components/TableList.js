@@ -1,8 +1,8 @@
-import React from 'react';
-import Table from './Table';
-import InputSelect from './InputSelect';
-import GenreData from './GenreData';
-import RatingData from './RatingData';
+import React from "react";
+import Table from "./Table";
+import InputSelect from "./InputSelect";
+import GenreData from "./GenreData";
+import RatingData from "./RatingData";
 
 const TableList = (props) => {
     return (
