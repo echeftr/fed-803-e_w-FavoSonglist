@@ -3,6 +3,27 @@
   text-align: center;
   font-family: "Roboto", sans-serif;
 }
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  background: cornflowerblue;
+  color: #fff;
+}
+
+.nav-links {
+  width: 40%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+.nav-links-li {
+  font-size: 2em;
+  color: #fff;
+  text-decoration: none;
+}
 
 .App-header {
   background-color: #1cd760;
